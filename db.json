@@ -1,0 +1,10 @@
+[{
+  "pays": "France",
+  "devise":"euro",
+},
+{"pays": "England",
+  "devise":"Pound",
+},
+{"pays": "USA",
+ "devise":"Dollar",
+}]
